@@ -10,7 +10,8 @@
   - Postgres / MongoDB / MySQL 🗃️  
 - Frontend stuff I vibe with:
   - Next.js  
-  - React  
+  - React
+  - Tailwind 
   - Redux  
   - TanStack  
 - AWS Certified Solutions Architect ☁️  
